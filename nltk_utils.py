@@ -1,6 +1,6 @@
 import subprocess
-import textblob
-cmd = ['python3','-m','textblob.download_corpora']
+#cmd = ['python3','-m','textblob.download_corpora']
+cmd = ['python3','-m','textblob.download_corpora;2D']
 subprocess.run(cmd)
 print("Working")
 
