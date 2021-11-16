@@ -22,8 +22,6 @@ import nltk_utils
 
 
 
-
-
 HTML_RANDOM_TEMPLATE = """
 <div style='padding:10px;background-color:#E1E2E1;
 			border-radius: 8px 34px 9px 26px;
