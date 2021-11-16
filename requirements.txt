@@ -1,6 +1,6 @@
 subprocess.run
 altair
--U textblob
+textblob
 nltk
 pandas
 matplotlib
